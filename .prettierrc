@@ -1,0 +1,8 @@
+{
+	"insertPragma": true,
+	"semi": true,
+	"singleQuote": false,
+	"tabWidth": 4,
+	"useTabs": true,
+	"overrides": [{ "files": ".prettierrc", "options": { "parser": "json" } }]
+}
