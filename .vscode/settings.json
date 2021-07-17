@@ -4,5 +4,5 @@
       "compounds": []
    },
    "editor.formatOnSave": true,
-   "prettier.insertPragma": true
+   "cSpell.language": "en,en-US"
 }
